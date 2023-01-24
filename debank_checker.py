@@ -56,6 +56,9 @@ class App:
     #
     #     if len(loads(await r.text())['data']) > 0:
     #         print(f'{local_chain} | {loads(await r.text())["data"][0]["balance"] / 10**18}')
+#
+#$
+# redo
 
     @staticmethod
     async def get_usd_value(local_address: str,
