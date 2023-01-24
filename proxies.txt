@@ -1,2 +1,3 @@
+#add socks5 suppoert
 type://user:pass@ip:port
 type://ip:port
